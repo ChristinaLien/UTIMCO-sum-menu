@@ -1,5 +1,5 @@
 #UTIMCO Sum Menu
-This Python program utilizes two-dimensional lists in order to sum the id's of menu items that have a label. 
+This Python program utilizes two-dimensional lists in order to sum the ID's of menu items that have a label. 
 
 #Environment
 This program was created using Notepad and Python 3.4.2. 
